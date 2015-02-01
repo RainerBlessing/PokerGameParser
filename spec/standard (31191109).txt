@@ -1,0 +1,3389 @@
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689494271
+Startzeit von Hand: 17 Jan 2015 16:39:04
+Letzte Hand n.v.
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 50 / 100
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 10 000
+Platz 2: ruskeva - 10 000
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 10 000
+Platz 5: calhau09099 - 10 000
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 10 000
+Platz 8: Zwijgzame - 10 000
+Platz 9: dodix - 10 000
+Platz 10: AspMatti - 10 000
+Karten mischen
+Button kommt an Platz 1
+ruskeva bezahlt Small Blind (50)
+Carcon bezahlt Big Blind (100)
+Karten geben
+Karten austeilen [Q h][8 h] an Kukicha4523
+Azerus152 passt
+calhau09099 geht mit bei 100
+tomyfingers passt
+w88dot passt
+Zwijgzame geht mit bei 100
+dodix passt
+AspMatti geht mit bei 100
+Kukicha4523 passt
+ruskeva geht mit bei 100
+Carcon schiebt
+Potgrößen: 500
+Flop austeilen [7 c][Q c][5 c]
+ruskeva setzt 100
+Carcon passt
+calhau09099 geht mit bei 100
+Zwijgzame passt
+AspMatti passt
+Potgrößen: 700
+Turn austeilen [2 s]
+ruskeva setzt 100
+calhau09099 geht mit bei 100
+Potgrößen: 900
+River austeilen [3 c]
+ruskeva setzt 4 200
+calhau09099 passt
+Potgrößen: 900
+ruskeva zeigt nicht
+ruskeva gewinnt 900
+Platz 1: Kukicha4523 - 10 000
+Platz 2: ruskeva - 10 600
+Platz 3: Carcon - 9 900
+Platz 4: Azerus152 - 10 000
+Platz 5: calhau09099 - 9 700
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 10 000
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 10 000
+Platz 10: AspMatti - 9 900
+Ende von Hand #2689494271
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689494844
+Startzeit von Hand: 17 Jan 2015 16:40:17
+Letzte Hand #2689494271
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 50 / 100
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 10 000
+Platz 2: ruskeva - 10 600
+Platz 3: Carcon - 9 900
+Platz 4: Azerus152 - 10 000
+Platz 5: calhau09099 - 9 700
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 10 000
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 10 000
+Platz 10: AspMatti - 9 900
+Karten mischen
+Button kommt an Platz 2
+Carcon bezahlt Small Blind (50)
+Azerus152 bezahlt Big Blind (100)
+Karten geben
+Karten austeilen [J s][K d] an Kukicha4523
+calhau09099 passt
+tomyfingers passt
+w88dot hat nicht rechtzeitig reagiert
+w88dot passt
+Zwijgzame passt
+dodix geht mit bei 100
+AspMatti passt
+Kukicha4523 passt
+ruskeva geht mit bei 100
+Carcon geht mit bei 100
+Azerus152 schiebt
+Potgrößen: 400
+Flop austeilen [Q d][K c][5 c]
+Carcon schiebt
+Azerus152 schiebt
+dodix schiebt
+ruskeva schiebt
+Potgrößen: 400
+Turn austeilen [9 h]
+Carcon schiebt
+Azerus152 schiebt
+dodix schiebt
+ruskeva schiebt
+Potgrößen: 400
+River austeilen [5 d]
+Carcon setzt 100
+Azerus152 passt
+dodix passt
+ruskeva passt
+Potgrößen: 400
+Carcon zeigt nicht
+Carcon gewinnt 400
+Platz 1: Kukicha4523 - 10 000
+Platz 2: ruskeva - 10 500
+Platz 3: Carcon - 10 200
+Platz 4: Azerus152 - 9 900
+Platz 5: calhau09099 - 9 700
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 10 000
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 9 900
+Platz 10: AspMatti - 9 900
+Ende von Hand #2689494844
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689495723
+Startzeit von Hand: 17 Jan 2015 16:42:04
+Letzte Hand #2689494844
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 50 / 100
+Button ist an Platz 2
+Platz 1: Kukicha4523 - 10 000
+Platz 2: ruskeva - 10 500
+Platz 3: Carcon - 10 200
+Platz 4: Azerus152 - 9 900
+Platz 5: calhau09099 - 9 700
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 10 000
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 9 900
+Platz 10: AspMatti - 9 900
+Karten mischen
+Button kommt an Platz 3
+Azerus152 bezahlt Small Blind (50)
+calhau09099 bezahlt Big Blind (100)
+Karten geben
+Karten austeilen [J s][T c] an Kukicha4523
+tomyfingers geht mit bei 100
+w88dot geht mit bei 100
+Zwijgzame passt
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+ruskeva geht mit bei 100
+Carcon geht mit bei 100
+Azerus152 geht mit bei 100
+calhau09099 schiebt
+Potgrößen: 600
+Flop austeilen [8 h][A s][8 d]
+Azerus152 schiebt
+calhau09099 schiebt
+tomyfingers schiebt
+w88dot schiebt
+ruskeva setzt 100
+Carcon geht mit bei 100
+Azerus152 geht mit bei 100
+calhau09099 passt
+tomyfingers geht mit bei 100
+w88dot passt
+Potgrößen: 1 000
+Turn austeilen [T s]
+Azerus152 schiebt
+tomyfingers schiebt
+ruskeva setzt 100
+Carcon passt
+Azerus152 geht mit bei 100
+tomyfingers geht mit bei 100
+Potgrößen: 1 300
+River austeilen [6 s]
+Azerus152 schiebt
+tomyfingers schiebt
+ruskeva setzt 1 200
+Azerus152 geht mit bei 1 200
+tomyfingers geht mit bei 1 200
+Potgrößen: 4 900
+ruskeva zeigt [8 s][2 h]
+ruskeva hat Drilling: 8
+Azerus152 zeigt [8 c][3 c]
+Azerus152 hat Drilling: 8
+tomyfingers zeigt [Q s][7 s]
+tomyfingers hat Flush, Ass hoch 
+tomyfingers gewinnt 4 900 mit: Flush, Ass hoch 
+Platz 1: Kukicha4523 - 10 000
+Platz 2: ruskeva - 9 000
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 400
+Platz 5: calhau09099 - 9 600
+Platz 6: tomyfingers - 13 400
+Platz 7: w88dot - 9 900
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 9 900
+Platz 10: AspMatti - 9 900
+Ende von Hand #2689495723
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689496783
+Startzeit von Hand: 17 Jan 2015 16:44:06
+Letzte Hand #2689495723
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 50 / 100
+Button ist an Platz 3
+Platz 1: Kukicha4523 - 10 000
+Platz 2: ruskeva - 9 000
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 400
+Platz 5: calhau09099 - 9 600
+Platz 6: tomyfingers - 13 400
+Platz 7: w88dot - 9 900
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 9 900
+Platz 10: AspMatti - 9 900
+Karten mischen
+Button kommt an Platz 4
+calhau09099 bezahlt Small Blind (50)
+tomyfingers bezahlt Big Blind (100)
+Karten geben
+Karten austeilen [A c][A d] an Kukicha4523
+w88dot geht mit bei 100
+Zwijgzame passt
+Carcon lacht laut.
+dodix passt
+AspMatti hat nicht rechtzeitig reagiert
+AspMatti passt
+Kukicha4523 erhöht auf 500
+ruskeva geht mit bei 500
+Carcon passt
+Azerus152 passt
+calhau09099 passt
+tomyfingers passt
+w88dot passt
+Potgrößen: 1 250
+Flop austeilen [6 c][A h][2 d]
+Kukicha4523 setzt 625
+ruskeva passt
+Potgrößen: 1 250
+Kukicha4523 zeigt nicht
+Kukicha4523 gewinnt 1 250
+Platz 1: Kukicha4523 - 10 750
+Platz 2: ruskeva - 8 500
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 400
+Platz 5: calhau09099 - 9 550
+Platz 6: tomyfingers - 13 300
+Platz 7: w88dot - 9 800
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 9 900
+Platz 10: AspMatti - 9 900
+Ende von Hand #2689496783
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689497471
+Startzeit von Hand: 17 Jan 2015 16:45:27
+Letzte Hand #2689496783
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 50 / 100
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 10 750
+Platz 2: ruskeva - 8 500
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 400
+Platz 5: calhau09099 - 9 550
+Platz 6: tomyfingers - 13 300
+Platz 7: w88dot - 9 800
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 9 900
+Platz 10: AspMatti - 9 900
+Karten mischen
+Button kommt an Platz 5
+tomyfingers bezahlt Small Blind (50)
+w88dot bezahlt Big Blind (100)
+Karten geben
+Karten austeilen [5 c][T d] an Kukicha4523
+Zwijgzame passt
+dodix geht mit bei 100
+AspMatti passt
+Kukicha4523 passt
+ruskeva geht mit bei 100
+Carcon passt
+Azerus152 geht mit bei 100
+calhau09099 passt
+tomyfingers geht mit bei 100
+w88dot schiebt
+Potgrößen: 500
+Flop austeilen [A s][9 d][7 h]
+tomyfingers schiebt
+w88dot schiebt
+dodix schiebt
+ruskeva schiebt
+Azerus152 schiebt
+Potgrößen: 500
+Turn austeilen [8 d]
+tomyfingers setzt 100
+w88dot geht mit bei 100
+dodix erhöht auf 200
+ruskeva geht mit bei 200
+Azerus152 passt
+tomyfingers passt
+w88dot geht mit bei 200
+Potgrößen: 1 200
+River austeilen [9 s]
+w88dot schiebt
+dodix setzt 400
+ruskeva erhöht auf 4 050
+w88dot erhöht auf 9 500 (All-In)
+dodix passt
+ruskeva geht mit bei 8 200 (All-In)
+w88dot erhält 1 300 ungecalled zurück
+Potgrößen: 18 000
+ruskeva zeigt [9 h][J c]
+w88dot zeigt [5 s][6 s]
+w88dot hat Straße, 9 hoch 
+w88dot gewinnt 18 000 mit: Straße, 9 hoch 
+Platz 1: Kukicha4523 - 10 750
+Platz 2: ruskeva - 0
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 9 550
+Platz 6: tomyfingers - 13 100
+Platz 7: w88dot - 19 300
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 9 200
+Platz 10: AspMatti - 9 900
+Ende von Hand #2689497471
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689498311
+Startzeit von Hand: 17 Jan 2015 16:47:04
+Letzte Hand #2689497471
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 50 / 100
+Button ist an Platz 5
+Platz 1: Kukicha4523 - 10 750
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 9 550
+Platz 6: tomyfingers - 13 100
+Platz 7: w88dot - 19 300
+Platz 8: Zwijgzame - 9 900
+Platz 9: dodix - 9 200
+Platz 10: AspMatti - 9 900
+Karten mischen
+Button kommt an Platz 6
+w88dot bezahlt Small Blind (50)
+Zwijgzame bezahlt Big Blind (100)
+Karten geben
+Karten austeilen [K h][4 h] an Kukicha4523
+dodix geht mit bei 100
+AspMatti passt
+Kukicha4523 passt
+Carcon passt
+Azerus152 passt
+calhau09099 passt
+tomyfingers geht mit bei 100
+w88dot geht mit bei 100
+Zwijgzame schiebt
+Potgrößen: 400
+Flop austeilen [J c][9 s][7 s]
+w88dot schiebt
+Zwijgzame setzt 400
+dodix geht mit bei 400
+tomyfingers geht mit bei 400
+w88dot passt
+Potgrößen: 1 600
+Turn austeilen [6 c]
+Zwijgzame setzt 1 600
+dodix geht mit bei 1 600
+tomyfingers passt
+Potgrößen: 4 800
+River austeilen [7 d]
+Zwijgzame setzt 4 800
+dodix passt
+Potgrößen: 4 800
+Zwijgzame zeigt nicht
+Zwijgzame gewinnt 4 800
+Platz 1: Kukicha4523 - 10 750
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 9 550
+Platz 6: tomyfingers - 12 600
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 12 600
+Platz 9: dodix - 7 100
+Platz 10: AspMatti - 9 900
+Ende von Hand #2689498311
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689498908
+Startzeit von Hand: 17 Jan 2015 16:48:16
+Letzte Hand #2689498311
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 100 / 200
+Button ist an Platz 6
+Platz 1: Kukicha4523 - 10 750
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 9 550
+Platz 6: tomyfingers - 12 600
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 12 600
+Platz 9: dodix - 7 100
+Platz 10: AspMatti - 9 900
+Karten mischen
+Button kommt an Platz 7
+Zwijgzame bezahlt Small Blind (100)
+dodix bezahlt Big Blind (200)
+Karten geben
+Karten austeilen [2 s][4 h] an Kukicha4523
+AspMatti geht mit bei 200
+Kukicha4523 passt
+Carcon passt
+Azerus152 passt
+calhau09099 geht mit bei 200
+tomyfingers passt
+w88dot passt
+Zwijgzame geht mit bei 200
+dodix schiebt
+Potgrößen: 800
+Flop austeilen [J s][6 c][5 d]
+Zwijgzame setzt 200
+dodix geht mit bei 200
+AspMatti passt
+calhau09099 geht mit bei 200
+Potgrößen: 1 400
+Turn austeilen [4 d]
+Zwijgzame setzt 400
+dodix erhöht auf 800
+calhau09099 geht mit bei 800
+Zwijgzame geht mit bei 800
+Potgrößen: 3 800
+River austeilen [Q h]
+Zwijgzame setzt 200
+dodix erhöht auf 400
+calhau09099 passt
+Zwijgzame geht mit bei 400
+Potgrößen: 4 600
+dodix zeigt [J c][K h]
+dodix hat Ein Paar: Buben
+Zwijgzame zeigt [J d][XX] 
+Zwijgzame hat Ein Paar: Buben
+dodix gewinnt 4 600 mit: Ein Paar: Buben
+Platz 1: Kukicha4523 - 10 750
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 8 350
+Platz 6: tomyfingers - 12 600
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 11 000
+Platz 9: dodix - 10 100
+Platz 10: AspMatti - 9 700
+Ende von Hand #2689498908
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689499466
+Startzeit von Hand: 17 Jan 2015 16:49:23
+Letzte Hand #2689498908
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 100 / 200
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 10 750
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 8 350
+Platz 6: tomyfingers - 12 600
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 11 000
+Platz 9: dodix - 10 100
+Platz 10: AspMatti - 9 700
+Karten mischen
+Button kommt an Platz 8
+dodix bezahlt Small Blind (100)
+AspMatti bezahlt Big Blind (200)
+Karten geben
+Karten austeilen [6 c][T s] an Kukicha4523
+Kukicha4523 passt
+Carcon passt
+Azerus152 passt
+calhau09099 geht mit bei 200
+tomyfingers passt
+w88dot passt
+Zwijgzame geht mit bei 200
+dodix geht mit bei 200
+AspMatti schiebt
+Potgrößen: 800
+Flop austeilen [3 c][7 s][8 h]
+dodix schiebt
+AspMatti schiebt
+tomyfingers lacht laut.
+calhau09099 schiebt
+Zwijgzame schiebt
+Potgrößen: 800
+Turn austeilen [J s]
+dodix schiebt
+AspMatti schiebt
+calhau09099 setzt 200
+Zwijgzame passt
+dodix passt
+AspMatti passt
+Potgrößen: 800
+calhau09099 zeigt nicht
+calhau09099 gewinnt 800
+Platz 1: Kukicha4523 - 10 750
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 8 950
+Platz 6: tomyfingers - 12 600
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 10 800
+Platz 9: dodix - 9 900
+Platz 10: AspMatti - 9 500
+Ende von Hand #2689499466
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689500056
+Startzeit von Hand: 17 Jan 2015 16:50:34
+Letzte Hand #2689499466
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 100 / 200
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 10 750
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 8 950
+Platz 6: tomyfingers - 12 600
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 10 800
+Platz 9: dodix - 9 900
+Platz 10: AspMatti - 9 500
+Karten mischen
+Button kommt an Platz 9
+AspMatti bezahlt Small Blind (100)
+Kukicha4523 bezahlt Big Blind (200)
+Karten geben
+Karten austeilen [3 h][T s] an Kukicha4523
+Carcon passt
+Azerus152 passt
+calhau09099 geht mit bei 200
+tomyfingers geht mit bei 200
+w88dot passt
+Zwijgzame passt
+dodix geht mit bei 200
+AspMatti passt
+Kukicha4523 schiebt
+Potgrößen: 900
+Flop austeilen [3 d][6 c][6 h]
+Kukicha4523 schiebt
+calhau09099 schiebt
+tomyfingers schiebt
+dodix schiebt
+Potgrößen: 900
+Turn austeilen [9 c]
+Kukicha4523 schiebt
+calhau09099 schiebt
+tomyfingers schiebt
+dodix schiebt
+Potgrößen: 900
+River austeilen [4 d]
+Kukicha4523 schiebt
+calhau09099 schiebt
+tomyfingers schiebt
+dodix schiebt
+Potgrößen: 900
+Kukicha4523 zeigt [3 h][T s]
+Kukicha4523 hat Zwei Paare: 6, 3
+calhau09099 wirft weg
+tomyfingers wirft weg
+dodix wirft weg
+Kukicha4523 gewinnt 900 mit: Zwei Paare: 6, 3
+Platz 1: Kukicha4523 - 11 450
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 8 750
+Platz 6: tomyfingers - 12 400
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 10 800
+Platz 9: dodix - 9 700
+Platz 10: AspMatti - 9 400
+Ende von Hand #2689500056
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689500575
+Startzeit von Hand: 17 Jan 2015 16:51:37
+Letzte Hand #2689500056
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 100 / 200
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 11 450
+Platz 3: Carcon - 10 000
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 8 750
+Platz 6: tomyfingers - 12 400
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 10 800
+Platz 9: dodix - 9 700
+Platz 10: AspMatti - 9 400
+Karten mischen
+Button kommt an Platz 10
+Kukicha4523 bezahlt Small Blind (100)
+Carcon bezahlt Big Blind (200)
+Karten geben
+Karten austeilen [3 s][4 d] an Kukicha4523
+Azerus152 passt
+calhau09099 geht mit bei 200
+tomyfingers geht mit bei 200
+w88dot passt
+Zwijgzame geht mit bei 200
+dodix geht mit bei 200
+AspMatti geht mit bei 200
+Kukicha4523 geht mit bei 200
+Carcon schiebt
+Potgrößen: 1 400
+Flop austeilen [5 h][T h][J s]
+Kukicha4523 schiebt
+Carcon schiebt
+calhau09099 schiebt
+tomyfingers setzt 200
+Zwijgzame passt
+dodix geht mit bei 200
+AspMatti geht mit bei 200
+Kukicha4523 passt
+Carcon passt
+calhau09099 geht mit bei 200
+Potgrößen: 2 200
+Turn austeilen [7 s]
+calhau09099 schiebt
+tomyfingers schiebt
+dodix setzt 400
+AspMatti geht mit bei 400
+calhau09099 geht mit bei 400
+tomyfingers geht mit bei 400
+Potgrößen: 3 800
+River austeilen [7 d]
+calhau09099 schiebt
+tomyfingers setzt 800
+dodix erhöht auf 1 600
+AspMatti geht mit bei 1 600
+calhau09099 geht mit bei 1 600
+tomyfingers geht mit bei 1 600
+Potgrößen: 10 200
+dodix zeigt [9 c][8 c]
+dodix hat Straße, Bube hoch 
+AspMatti wirft weg
+calhau09099 wirft weg
+tomyfingers wirft weg
+dodix gewinnt 10 200 mit: Straße, Bube hoch 
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 800
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 6 350
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 10 600
+Platz 9: dodix - 17 500
+Platz 10: AspMatti - 7 000
+Ende von Hand #2689500575
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689501647
+Startzeit von Hand: 17 Jan 2015 16:53:49
+Letzte Hand #2689500575
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 100 / 200
+Button ist an Platz 10
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 800
+Platz 4: Azerus152 - 8 300
+Platz 5: calhau09099 - 6 350
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 10 600
+Platz 9: dodix - 17 500
+Platz 10: AspMatti - 7 000
+Karten mischen
+Button kommt an Platz 1
+Carcon bezahlt Small Blind (100)
+Azerus152 bezahlt Big Blind (200)
+Karten geben
+Karten austeilen [7 c][3 h] an Kukicha4523
+calhau09099 passt
+tomyfingers passt
+w88dot passt
+Zwijgzame passt
+dodix geht mit bei 200
+AspMatti geht mit bei 200
+Kukicha4523 passt
+Carcon geht mit bei 200
+Azerus152 schiebt
+Potgrößen: 800
+Flop austeilen [A d][T h][2 h]
+Carcon schiebt
+Azerus152 setzt 400
+dodix geht mit bei 400
+AspMatti geht mit bei 400
+Carcon passt
+Potgrößen: 2 000
+Turn austeilen [4 c]
+Azerus152 setzt 1 000
+dodix passt
+AspMatti erhöht auf 2 000
+Azerus152 geht mit bei 2 000
+Potgrößen: 6 000
+River austeilen [Q s]
+Azerus152 schiebt
+AspMatti schiebt
+Potgrößen: 6 000
+AspMatti zeigt [9 c][A s]
+AspMatti hat Ein Paar: Asse
+Azerus152 wirft weg
+AspMatti gewinnt 6 000 mit: Ein Paar: Asse
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 600
+Platz 4: Azerus152 - 5 700
+Platz 5: calhau09099 - 6 350
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 10 600
+Platz 9: dodix - 16 900
+Platz 10: AspMatti - 10 400
+Ende von Hand #2689501647
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689502445
+Startzeit von Hand: 17 Jan 2015 16:55:29
+Letzte Hand #2689501647
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 200 / 400
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 600
+Platz 4: Azerus152 - 5 700
+Platz 5: calhau09099 - 6 350
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 10 600
+Platz 9: dodix - 16 900
+Platz 10: AspMatti - 10 400
+Karten mischen
+Button kommt an Platz 3
+Azerus152 bezahlt Small Blind (200)
+calhau09099 bezahlt Big Blind (400)
+Karten geben
+Karten austeilen [Q c][5 c] an Kukicha4523
+tomyfingers passt
+w88dot passt
+Zwijgzame geht mit bei 400
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Carcon erhöht auf 800
+Azerus152 passt
+calhau09099 geht mit bei 800
+Zwijgzame geht mit bei 800
+Potgrößen: 2 600
+Flop austeilen [6 d][6 s][6 h]
+calhau09099 schiebt
+Zwijgzame schiebt
+Carcon schiebt
+Potgrößen: 2 600
+Turn austeilen [T c]
+calhau09099 schiebt
+Zwijgzame schiebt
+Carcon schiebt
+Potgrößen: 2 600
+River austeilen [J c]
+calhau09099 schiebt
+Zwijgzame schiebt
+Carcon setzt 800
+calhau09099 passt
+Zwijgzame passt
+Potgrößen: 2 600
+Carcon zeigt nicht
+Carcon gewinnt 2 600
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 11 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 550
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 9 800
+Platz 9: dodix - 16 900
+Platz 10: AspMatti - 10 400
+Ende von Hand #2689502445
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689502986
+Startzeit von Hand: 17 Jan 2015 16:56:50
+Letzte Hand #2689502445
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 200 / 400
+Button ist an Platz 3
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 11 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 550
+Platz 6: tomyfingers - 10 000
+Platz 7: w88dot - 19 200
+Platz 8: Zwijgzame - 9 800
+Platz 9: dodix - 16 900
+Platz 10: AspMatti - 10 400
+Karten mischen
+Button kommt an Platz 4
+calhau09099 bezahlt Small Blind (200)
+tomyfingers bezahlt Big Blind (400)
+Karten geben
+Karten austeilen [8 c][4 s] an Kukicha4523
+w88dot erhöht auf 800
+Zwijgzame geht mit bei 800
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Carcon passt
+Azerus152 passt
+calhau09099 passt
+tomyfingers passt
+Potgrößen: 2 200
+Flop austeilen [9 d][6 h][J d]
+w88dot schiebt
+Zwijgzame setzt 800
+w88dot geht mit bei 800
+Potgrößen: 3 800
+Turn austeilen [Q c]
+w88dot schiebt
+Zwijgzame setzt 1 200
+w88dot geht mit bei 1 200
+Potgrößen: 6 200
+River austeilen [K d]
+w88dot schiebt
+Zwijgzame schiebt
+Potgrößen: 6 200
+Zwijgzame zeigt [K h][9 h]
+Zwijgzame hat Zwei Paare: Könige, 9
+w88dot wirft weg
+Zwijgzame gewinnt 6 200 mit: Zwei Paare: Könige, 9
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 11 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 9 600
+Platz 7: w88dot - 16 400
+Platz 8: Zwijgzame - 13 200
+Platz 9: dodix - 16 900
+Platz 10: AspMatti - 10 400
+Ende von Hand #2689502986
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689503414
+Startzeit von Hand: 17 Jan 2015 16:57:54
+Letzte Hand #2689502986
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 200 / 400
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 11 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 9 600
+Platz 7: w88dot - 16 400
+Platz 8: Zwijgzame - 13 200
+Platz 9: dodix - 16 900
+Platz 10: AspMatti - 10 400
+Karten mischen
+Button kommt an Platz 5
+tomyfingers bezahlt Small Blind (200)
+w88dot bezahlt Big Blind (400)
+Karten geben
+Karten austeilen [5 h][Q d] an Kukicha4523
+Zwijgzame geht mit bei 400
+dodix geht mit bei 400
+AspMatti geht mit bei 400
+Kukicha4523 passt
+Carcon passt
+Azerus152 passt
+calhau09099 passt
+tomyfingers geht mit bei 400
+w88dot schiebt
+Potgrößen: 2 000
+Flop austeilen [4 s][6 s][3 s]
+tomyfingers schiebt
+w88dot setzt 400
+Zwijgzame passt
+dodix passt
+AspMatti geht mit bei 400
+tomyfingers passt
+Potgrößen: 2 800
+Turn austeilen [2 h]
+w88dot setzt 400
+AspMatti geht mit bei 400
+Potgrößen: 3 600
+River austeilen [7 s]
+w88dot setzt 400
+AspMatti erhöht auf 4 400
+w88dot passt
+Potgrößen: 4 400
+AspMatti zeigt nicht
+AspMatti gewinnt 4 400
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 11 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 9 200
+Platz 7: w88dot - 14 800
+Platz 8: Zwijgzame - 12 800
+Platz 9: dodix - 16 500
+Platz 10: AspMatti - 13 200
+Ende von Hand #2689503414
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689503833
+Startzeit von Hand: 17 Jan 2015 16:59:01
+Letzte Hand #2689503414
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 200 / 400
+Button ist an Platz 5
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 11 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 9 200
+Platz 7: w88dot - 14 800
+Platz 8: Zwijgzame - 12 800
+Platz 9: dodix - 16 500
+Platz 10: AspMatti - 13 200
+Karten mischen
+Button kommt an Platz 6
+w88dot bezahlt Small Blind (200)
+Zwijgzame bezahlt Big Blind (400)
+Karten geben
+Karten austeilen [2 s][6 h] an Kukicha4523
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Carcon geht mit bei 400
+Azerus152 passt
+calhau09099 passt
+tomyfingers geht mit bei 400
+w88dot erhöht auf 2 000
+Zwijgzame passt
+Carcon geht mit bei 2 000
+tomyfingers passt
+Potgrößen: 4 800
+Flop austeilen [6 d][A h][5 c]
+w88dot setzt 4 800
+Carcon passt
+Potgrößen: 4 800
+w88dot zeigt nicht
+w88dot gewinnt 4 800
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 8 800
+Platz 7: w88dot - 17 600
+Platz 8: Zwijgzame - 12 400
+Platz 9: dodix - 16 500
+Platz 10: AspMatti - 13 200
+Ende von Hand #2689503833
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689504198
+Startzeit von Hand: 17 Jan 2015 16:59:54
+Letzte Hand #2689503833
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 200 / 400
+Button ist an Platz 6
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 8 800
+Platz 7: w88dot - 17 600
+Platz 8: Zwijgzame - 12 400
+Platz 9: dodix - 16 500
+Platz 10: AspMatti - 13 200
+Karten mischen
+Button kommt an Platz 7
+Zwijgzame bezahlt Small Blind (200)
+dodix bezahlt Big Blind (400)
+Karten geben
+Karten austeilen [4 c][4 d] an Kukicha4523
+AspMatti passt
+Kukicha4523 passt
+Carcon passt
+Azerus152 passt
+calhau09099 passt
+tomyfingers passt
+w88dot geht mit bei 400
+Zwijgzame hat nicht rechtzeitig reagiert
+Zwijgzame passt
+dodix schiebt
+Potgrößen: 1 000
+Flop austeilen [J s][A h][A c]
+dodix schiebt
+w88dot schiebt
+Potgrößen: 1 000
+Turn austeilen [K h]
+dodix schiebt
+w88dot setzt 400
+dodix passt
+Potgrößen: 1 000
+w88dot zeigt nicht
+w88dot gewinnt 1 000
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 8 800
+Platz 7: w88dot - 18 200
+Platz 8: Zwijgzame - 12 200
+Platz 9: dodix - 16 100
+Platz 10: AspMatti - 13 200
+Ende von Hand #2689504198
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689504638
+Startzeit von Hand: 17 Jan 2015 17:00:52
+Letzte Hand #2689504198
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 200 / 400
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 400
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 8 800
+Platz 7: w88dot - 18 200
+Platz 8: Zwijgzame - 12 200
+Platz 9: dodix - 16 100
+Platz 10: AspMatti - 13 200
+Karten mischen
+Button kommt an Platz 8
+dodix bezahlt Small Blind (200)
+AspMatti bezahlt Big Blind (400)
+Karten geben
+Karten austeilen [8 c][K h] an Kukicha4523
+Kukicha4523 passt
+Carcon geht mit bei 400
+Azerus152 passt
+calhau09099 passt
+tomyfingers passt
+w88dot geht mit bei 400
+Zwijgzame geht mit bei 400
+dodix passt
+AspMatti schiebt
+Potgrößen: 1 800
+Flop austeilen [A h][3 s][K c]
+AspMatti schiebt
+Carcon schiebt
+w88dot setzt 1 800
+Zwijgzame passt
+AspMatti passt
+Carcon passt
+Potgrößen: 1 800
+w88dot zeigt nicht
+w88dot gewinnt 1 800
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 000
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 8 800
+Platz 7: w88dot - 19 600
+Platz 8: Zwijgzame - 11 800
+Platz 9: dodix - 15 900
+Platz 10: AspMatti - 12 800
+Ende von Hand #2689504638
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689504997
+Startzeit von Hand: 17 Jan 2015 17:01:35
+Letzte Hand #2689504638
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 200 / 400
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 11 250
+Platz 3: Carcon - 9 000
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 8 800
+Platz 7: w88dot - 19 600
+Platz 8: Zwijgzame - 11 800
+Platz 9: dodix - 15 900
+Platz 10: AspMatti - 12 800
+Karten mischen
+Button kommt an Platz 9
+AspMatti bezahlt Small Blind (200)
+Kukicha4523 bezahlt Big Blind (400)
+Karten geben
+Karten austeilen [4 h][T h] an Kukicha4523
+Carcon passt
+Azerus152 passt
+calhau09099 passt
+tomyfingers passt
+w88dot passt
+Zwijgzame geht mit bei 400
+dodix passt
+AspMatti geht mit bei 400
+Kukicha4523 schiebt
+Potgrößen: 1 200
+Flop austeilen [3 c][K s][A d]
+AspMatti schiebt
+Kukicha4523 schiebt
+Zwijgzame setzt 400
+AspMatti geht mit bei 400
+Kukicha4523 passt
+Potgrößen: 2 000
+Turn austeilen [Q s]
+AspMatti schiebt
+Zwijgzame setzt 400
+AspMatti geht mit bei 400
+Potgrößen: 2 800
+River austeilen [T d]
+AspMatti setzt 1 400
+Zwijgzame passt
+Potgrößen: 2 800
+AspMatti zeigt [J d][XX] 
+AspMatti hat Straße, Ass hoch 
+AspMatti gewinnt 2 800
+Platz 1: Kukicha4523 - 10 850
+Platz 3: Carcon - 9 000
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 8 800
+Platz 7: w88dot - 19 600
+Platz 8: Zwijgzame - 10 600
+Platz 9: dodix - 15 900
+Platz 10: AspMatti - 14 400
+Ende von Hand #2689504997
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689505516
+Startzeit von Hand: 17 Jan 2015 17:02:36
+Letzte Hand #2689504997
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 200 / 400
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 10 850
+Platz 3: Carcon - 9 000
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 5 350
+Platz 6: tomyfingers - 8 800
+Platz 7: w88dot - 19 600
+Platz 8: Zwijgzame - 10 600
+Platz 9: dodix - 15 900
+Platz 10: AspMatti - 14 400
+Karten mischen
+Button kommt an Platz 10
+Kukicha4523 bezahlt Small Blind (200)
+Carcon bezahlt Big Blind (400)
+Karten geben
+Karten austeilen [7 s][T d] an Kukicha4523
+Azerus152 passt
+calhau09099 geht mit bei 400
+tomyfingers geht mit bei 400
+w88dot passt
+Zwijgzame geht mit bei 400
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Carcon schiebt
+Potgrößen: 1 800
+Flop austeilen [A s][2 c][3 h]
+Carcon setzt 400
+calhau09099 geht mit bei 400
+tomyfingers passt
+Zwijgzame erhöht auf 1 900
+tomyfingers schüttelt den Kopf.
+Carcon geht mit bei 1 900
+calhau09099 geht mit bei 1 900
+Potgrößen: 7 500
+Turn austeilen [8 s]
+Carcon schiebt
+calhau09099 schiebt
+Zwijgzame setzt 3 750
+Carcon geht mit bei 3 750
+calhau09099 geht mit bei 3 050 (All-In)
+Potgrößen: 16 650
+Potgrößen: 1 400
+River austeilen [3 d]
+Carcon schiebt
+Zwijgzame setzt 4 550 (All-In)
+Carcon geht mit bei 2 950 (All-In)
+Zwijgzame erhält 1 600 ungecalled zurück
+Potgrößen: 16 650
+Potgrößen: 7 300
+Carcon zeigt [5 h][A d]
+calhau09099 zeigt [T c][A h]
+Zwijgzame zeigt [2 s][2 d]
+Zwijgzame hat Full House, 2 über 3
+Zwijgzame gewinnt 7 300 von Side-Pot #1 mit: Full House, 2 über 3
+Zwijgzame gewinnt 16 650 mit: Full House, 2 über 3
+Platz 1: Kukicha4523 - 10 650
+Platz 3: Carcon - 0
+Platz 4: Azerus152 - 5 500
+Platz 5: calhau09099 - 0
+Platz 6: tomyfingers - 8 400
+Platz 7: w88dot - 19 600
+Platz 8: Zwijgzame - 25 550
+Platz 9: dodix - 15 900
+Platz 10: AspMatti - 14 400
+Ende von Hand #2689505516
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689506287
+Startzeit von Hand: 17 Jan 2015 17:04:03
+Letzte Hand #2689505516
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 300 / 600
+Button ist an Platz 10
+Platz 1: Kukicha4523 - 10 650
+Platz 4: Azerus152 - 5 500
+Platz 6: tomyfingers - 8 400
+Platz 7: w88dot - 19 600
+Platz 8: Zwijgzame - 25 550
+Platz 9: dodix - 15 900
+Platz 10: AspMatti - 14 400
+Karten mischen
+Button kommt an Platz 1
+Azerus152 bezahlt Big Blind (600)
+Karten geben
+Karten austeilen [A s][K d] an Kukicha4523
+tomyfingers geht mit bei 600
+w88dot geht mit bei 600
+Zwijgzame passt
+dodix passt
+AspMatti passt
+Kukicha4523 erhöht auf 3 000
+Azerus152 erhöht auf 5 500 (All-In)
+tomyfingers passt
+w88dot passt
+Kukicha4523 geht mit bei 5 500
+Potgrößen: 12 200
+Kukicha4523 zeigt [A s][K d]
+Azerus152 zeigt [T s][A d]
+Flop austeilen [3 s][T d][T c]
+Potgrößen: 12 200
+Turn austeilen [Q h]
+Potgrößen: 12 200
+River austeilen [4 h]
+Potgrößen: 12 200
+Azerus152 hat Drilling: 10
+Azerus152 gewinnt 12 200 mit: Drilling: 10
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 12 200
+Platz 6: tomyfingers - 7 800
+Platz 7: w88dot - 19 000
+Platz 8: Zwijgzame - 25 550
+Platz 9: dodix - 15 900
+Platz 10: AspMatti - 14 400
+Ende von Hand #2689506287
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689506742
+Startzeit von Hand: 17 Jan 2015 17:04:57
+Letzte Hand #2689506287
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 300 / 600
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 12 200
+Platz 6: tomyfingers - 7 800
+Platz 7: w88dot - 19 000
+Platz 8: Zwijgzame - 25 550
+Platz 9: dodix - 15 900
+Platz 10: AspMatti - 14 400
+Karten mischen
+Button kommt an Platz 1
+Azerus152 bezahlt Small Blind (300)
+tomyfingers bezahlt Big Blind (600)
+Karten geben
+Karten austeilen [8 c][T h] an Kukicha4523
+w88dot geht mit bei 600
+Zwijgzame geht mit bei 600
+dodix geht mit bei 600
+AspMatti passt
+Kukicha4523 passt
+Azerus152 passt
+tomyfingers schiebt
+Potgrößen: 2 700
+Flop austeilen [7 d][2 h][J h]
+tomyfingers setzt 2 700
+w88dot passt
+Zwijgzame geht mit bei 2 700
+dodix passt
+Potgrößen: 8 100
+Turn austeilen [2 d]
+tomyfingers schiebt
+Zwijgzame schiebt
+Potgrößen: 8 100
+River austeilen [K s]
+tomyfingers setzt 600
+Zwijgzame erhöht auf 1 200
+tomyfingers geht mit bei 1 200
+Potgrößen: 10 500
+Zwijgzame zeigt [A c][K h]
+Zwijgzame hat Zwei Paare: Könige, 2
+tomyfingers wirft weg
+Zwijgzame gewinnt 10 500 mit: Zwei Paare: Könige, 2
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 11 900
+Platz 6: tomyfingers - 3 300
+Platz 7: w88dot - 18 400
+Platz 8: Zwijgzame - 31 550
+Platz 9: dodix - 15 300
+Platz 10: AspMatti - 14 400
+Ende von Hand #2689506742
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689507425
+Startzeit von Hand: 17 Jan 2015 17:06:06
+Letzte Hand #2689506742
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 300 / 600
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 11 900
+Platz 6: tomyfingers - 3 300
+Platz 7: w88dot - 18 400
+Platz 8: Zwijgzame - 31 550
+Platz 9: dodix - 15 300
+Platz 10: AspMatti - 14 400
+Karten mischen
+Button kommt an Platz 4
+tomyfingers bezahlt Small Blind (300)
+w88dot bezahlt Big Blind (600)
+Karten geben
+Karten austeilen [4 d][2 d] an Kukicha4523
+Zwijgzame passt
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Azerus152 passt
+tomyfingers erhöht auf 3 300 (All-In)
+w88dot passt
+Potgrößen: 1 200
+tomyfingers zeigt nicht
+tomyfingers gewinnt 1 200
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 11 900
+Platz 6: tomyfingers - 3 900
+Platz 7: w88dot - 17 800
+Platz 8: Zwijgzame - 31 550
+Platz 9: dodix - 15 300
+Platz 10: AspMatti - 14 400
+Ende von Hand #2689507425
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689507737
+Startzeit von Hand: 17 Jan 2015 17:06:42
+Letzte Hand #2689507425
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 300 / 600
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 11 900
+Platz 6: tomyfingers - 3 900
+Platz 7: w88dot - 17 800
+Platz 8: Zwijgzame - 31 550
+Platz 9: dodix - 15 300
+Platz 10: AspMatti - 14 400
+Karten mischen
+Button kommt an Platz 6
+w88dot bezahlt Small Blind (300)
+Zwijgzame bezahlt Big Blind (600)
+Karten geben
+Karten austeilen [4 d][T c] an Kukicha4523
+dodix geht mit bei 600
+AspMatti hat nicht rechtzeitig reagiert
+AspMatti passt
+Kukicha4523 passt
+Azerus152 passt
+tomyfingers geht mit bei 600
+w88dot geht mit bei 600
+Zwijgzame schiebt
+Potgrößen: 2 400
+Flop austeilen [5 s][7 d][Q d]
+w88dot schiebt
+Zwijgzame schiebt
+dodix schiebt
+tomyfingers schiebt
+Potgrößen: 2 400
+Turn austeilen [A s]
+w88dot schiebt
+Zwijgzame setzt 600
+dodix geht mit bei 600
+tomyfingers erhöht auf 1 200
+w88dot passt
+Zwijgzame geht mit bei 1 200
+dodix geht mit bei 1 200
+Potgrößen: 6 000
+River austeilen [8 s]
+Zwijgzame schiebt
+dodix schiebt
+tomyfingers setzt 2 100 (All-In)
+Zwijgzame passt
+dodix geht mit bei 2 100
+Potgrößen: 10 200
+tomyfingers zeigt [A c][J h]
+dodix zeigt [K c][A d]
+tomyfingers hat Ein Paar: Asse
+dodix hat Ein Paar: Asse
+dodix gewinnt 10 200 mit: Ein Paar: Asse
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 11 900
+Platz 6: tomyfingers - 0
+Platz 7: w88dot - 17 200
+Platz 8: Zwijgzame - 29 750
+Platz 9: dodix - 21 600
+Platz 10: AspMatti - 14 400
+Ende von Hand #2689507737
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689508751
+Startzeit von Hand: 17 Jan 2015 17:08:21
+Letzte Hand #2689507737
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 300 / 600
+Button ist an Platz 6
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 11 900
+Platz 7: w88dot - 17 200
+Platz 8: Zwijgzame - 29 750
+Platz 9: dodix - 21 600
+Platz 10: AspMatti - 14 400
+Karten mischen
+Button kommt an Platz 7
+Zwijgzame bezahlt Small Blind (300)
+dodix bezahlt Big Blind (600)
+Karten geben
+Karten austeilen [A h][2 d] an Kukicha4523
+AspMatti geht mit bei 600
+Kukicha4523 passt
+Azerus152 erhöht auf 1 500
+w88dot passt
+Zwijgzame geht mit bei 1 500
+dodix passt
+AspMatti passt
+Potgrößen: 4 200
+Flop austeilen [2 c][3 h][J s]
+Zwijgzame schiebt
+Azerus152 setzt 2 100
+Zwijgzame geht mit bei 2 100
+Potgrößen: 8 400
+Turn austeilen [9 h]
+Zwijgzame schiebt
+Azerus152 setzt 4 200
+Zwijgzame passt
+Potgrößen: 8 400
+Azerus152 zeigt nicht
+Azerus152 gewinnt 8 400
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 16 700
+Platz 7: w88dot - 17 200
+Platz 8: Zwijgzame - 26 150
+Platz 9: dodix - 21 000
+Platz 10: AspMatti - 13 800
+Ende von Hand #2689508751
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689509332
+Startzeit von Hand: 17 Jan 2015 17:09:19
+Letzte Hand #2689508751
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 300 / 600
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 5 150
+Platz 4: Azerus152 - 16 700
+Platz 7: w88dot - 17 200
+Platz 8: Zwijgzame - 26 150
+Platz 9: dodix - 21 000
+Platz 10: AspMatti - 13 800
+Karten mischen
+Button kommt an Platz 8
+dodix bezahlt Small Blind (300)
+AspMatti bezahlt Big Blind (600)
+Karten geben
+Karten austeilen [J d][T d] an Kukicha4523
+Kukicha4523 erhöht auf 5 150 (All-In)
+Azerus152 passt
+w88dot geht mit bei 5 150
+Zwijgzame passt
+dodix passt
+AspMatti passt
+Potgrößen: 11 200
+Kukicha4523 zeigt [J d][T d]
+w88dot zeigt [6 d][6 h]
+Flop austeilen [4 s][J s][K s]
+Potgrößen: 11 200
+Turn austeilen [J c]
+Potgrößen: 11 200
+River austeilen [9 c]
+Potgrößen: 11 200
+Kukicha4523 hat Drilling: Buben
+Kukicha4523 gewinnt 11 200 mit: Drilling: Buben
+Platz 1: Kukicha4523 - 11 200
+Platz 4: Azerus152 - 16 700
+Platz 7: w88dot - 12 050
+Platz 8: Zwijgzame - 26 150
+Platz 9: dodix - 20 700
+Platz 10: AspMatti - 13 200
+Ende von Hand #2689509332
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689509787
+Startzeit von Hand: 17 Jan 2015 17:10:05
+Letzte Hand #2689509332
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 300 / 600
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 11 200
+Platz 4: Azerus152 - 16 700
+Platz 7: w88dot - 12 050
+Platz 8: Zwijgzame - 26 150
+Platz 9: dodix - 20 700
+Platz 10: AspMatti - 13 200
+Karten mischen
+Button kommt an Platz 9
+AspMatti bezahlt Small Blind (300)
+Kukicha4523 bezahlt Big Blind (600)
+Karten geben
+Karten austeilen [3 h][T s] an Kukicha4523
+Azerus152 passt
+w88dot geht mit bei 600
+Zwijgzame passt
+dodix geht mit bei 600
+AspMatti geht mit bei 600
+Kukicha4523 schiebt
+Potgrößen: 2 400
+Flop austeilen [T h][4 h][Q d]
+AspMatti schiebt
+Kukicha4523 schiebt
+w88dot setzt 600
+dodix geht mit bei 600
+AspMatti passt
+Kukicha4523 passt
+Potgrößen: 3 600
+Turn austeilen [8 s]
+w88dot setzt 3 600
+dodix passt
+Potgrößen: 3 600
+w88dot zeigt nicht
+w88dot gewinnt 3 600
+Platz 1: Kukicha4523 - 10 600
+Platz 4: Azerus152 - 16 700
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 26 150
+Platz 9: dodix - 19 500
+Platz 10: AspMatti - 12 600
+Ende von Hand #2689509787
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689510246
+Startzeit von Hand: 17 Jan 2015 17:10:52
+Letzte Hand #2689509787
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 300 / 600
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 10 600
+Platz 4: Azerus152 - 16 700
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 26 150
+Platz 9: dodix - 19 500
+Platz 10: AspMatti - 12 600
+Karten mischen
+Button kommt an Platz 10
+Kukicha4523 bezahlt Small Blind (300)
+Azerus152 bezahlt Big Blind (600)
+Karten geben
+Karten austeilen [3 d][K h] an Kukicha4523
+w88dot passt
+Zwijgzame geht mit bei 600
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Azerus152 schiebt
+Potgrößen: 1 500
+Flop austeilen [3 c][2 s][2 h]
+Azerus152 schiebt
+Zwijgzame schiebt
+Potgrößen: 1 500
+Turn austeilen [7 d]
+Azerus152 setzt 750
+Zwijgzame passt
+Potgrößen: 1 500
+Azerus152 zeigt nicht
+Azerus152 gewinnt 1 500
+Platz 1: Kukicha4523 - 10 300
+Platz 4: Azerus152 - 17 600
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 25 550
+Platz 9: dodix - 19 500
+Platz 10: AspMatti - 12 600
+Ende von Hand #2689510246
+
+Zwijgzame setzt 800
+dodix erhöht auf 1 600
+AspMatti passt
+Zwijgzame geht mit bei 1 600
+Potgrößen: 5 600
+Turn austeilen [7 c]
+Zwijgzame setzt 800
+dodix erhöht auf 1 600
+Zwijgzame geht mit bei 1 600
+Potgrößen: 8 800
+River austeilen [4 c]
+Zwijgzame passt
+Potgrößen: 8 800
+dodix zeigt nicht
+dodix gewinnt 8 800
+Platz 1: Kukicha4523 - 10 300
+Platz 4: Azerus152 - 17 200
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 21 950
+Platz 9: dodix - 24 300
+Platz 10: AspMatti - 11 800
+Ende von Hand #2689511146
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689511523
+Startzeit von Hand: 17 Jan 2015 17:13:03
+Letzte Hand #2689511146
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 10 300
+Platz 4: Azerus152 - 17 200
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 21 950
+Platz 9: dodix - 24 300
+Platz 10: AspMatti - 11 800
+Karten mischen
+Button kommt an Platz 8
+dodix bezahlt Small Blind (400)
+AspMatti bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [9 d][6 c] an Kukicha4523
+Kukicha4523 passt
+Azerus152 erhöht auf 2 000
+w88dot passt
+Zwijgzame passt
+dodix passt
+AspMatti passt
+Potgrößen: 2 000
+Azerus152 zeigt nicht
+Azerus152 gewinnt 2 000
+Platz 1: Kukicha4523 - 10 300
+Platz 4: Azerus152 - 18 400
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 21 950
+Platz 9: dodix - 23 900
+Platz 10: AspMatti - 11 000
+Ende von Hand #2689511523
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689511788
+Startzeit von Hand: 17 Jan 2015 17:13:29
+Letzte Hand #2689511523
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 10 300
+Platz 4: Azerus152 - 18 400
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 21 950
+Platz 9: dodix - 23 900
+Platz 10: AspMatti - 11 000
+Karten mischen
+Button kommt an Platz 9
+AspMatti bezahlt Small Blind (400)
+Kukicha4523 bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [9 h][Q c] an Kukicha4523
+Azerus152 passt
+w88dot passt
+Zwijgzame passt
+dodix geht mit bei 800
+AspMatti passt
+Kukicha4523 schiebt
+Potgrößen: 2 000
+Flop austeilen [2 c][8 s][3 s]
+Kukicha4523 schiebt
+dodix schiebt
+Potgrößen: 2 000
+Turn austeilen [J s]
+Kukicha4523 schiebt
+dodix schiebt
+Potgrößen: 2 000
+River austeilen [3 c]
+Kukicha4523 schiebt
+dodix schiebt
+Potgrößen: 2 000
+Kukicha4523 zeigt [9 h][Q c]
+Kukicha4523 hat Ein Paar: 3
+dodix zeigt [7 d][A d]
+dodix hat Ein Paar: 3
+dodix gewinnt 2 000 mit: Ein Paar: 3
+Platz 1: Kukicha4523 - 9 500
+Platz 4: Azerus152 - 18 400
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 21 950
+Platz 9: dodix - 25 100
+Platz 10: AspMatti - 10 600
+Ende von Hand #2689511788
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689512134
+Startzeit von Hand: 17 Jan 2015 17:14:07
+Letzte Hand #2689511788
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 9 500
+Platz 4: Azerus152 - 18 400
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 21 950
+Platz 9: dodix - 25 100
+Platz 10: AspMatti - 10 600
+Karten mischen
+Button kommt an Platz 10
+Kukicha4523 bezahlt Small Blind (400)
+Azerus152 bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [4 c][Q s] an Kukicha4523
+w88dot passt
+Zwijgzame geht mit bei 800
+dodix passt
+AspMatti geht mit bei 800
+Kukicha4523 passt
+Azerus152 schiebt
+Potgrößen: 2 800
+Flop austeilen [4 s][A h][9 h]
+Azerus152 schiebt
+Zwijgzame schiebt
+AspMatti setzt 1 400
+Azerus152 passt
+Zwijgzame passt
+Potgrößen: 2 800
+AspMatti zeigt nicht
+AspMatti gewinnt 2 800
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 17 600
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 21 150
+Platz 9: dodix - 25 100
+Platz 10: AspMatti - 12 600
+Ende von Hand #2689512134
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689512505
+Startzeit von Hand: 17 Jan 2015 17:14:46
+Letzte Hand #2689512134
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 10
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 17 600
+Platz 7: w88dot - 14 450
+Platz 8: Zwijgzame - 21 150
+Platz 9: dodix - 25 100
+Platz 10: AspMatti - 12 600
+Karten mischen
+Button kommt an Platz 1
+Azerus152 bezahlt Small Blind (400)
+w88dot bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [6 s][T h] an Kukicha4523
+Zwijgzame passt
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Azerus152 erhöht auf 1 600
+w88dot geht mit bei 1 600
+Potgrößen: 3 200
+Flop austeilen [Q h][7 s][8 h]
+Azerus152 schiebt
+w88dot setzt 3 200
+Azerus152 passt
+Potgrößen: 3 200
+w88dot zeigt nicht
+w88dot gewinnt 3 200
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 16 000
+Platz 7: w88dot - 16 050
+Platz 8: Zwijgzame - 21 150
+Platz 9: dodix - 25 100
+Platz 10: AspMatti - 12 600
+Ende von Hand #2689512505
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689512826
+Startzeit von Hand: 17 Jan 2015 17:15:19
+Letzte Hand #2689512505
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 16 000
+Platz 7: w88dot - 16 050
+Platz 8: Zwijgzame - 21 150
+Platz 9: dodix - 25 100
+Platz 10: AspMatti - 12 600
+Karten mischen
+Button kommt an Platz 4
+w88dot bezahlt Small Blind (400)
+Zwijgzame bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [4 d][9 h] an Kukicha4523
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Azerus152 passt
+w88dot erhöht auf 1 600
+Zwijgzame passt
+Potgrößen: 1 600
+w88dot zeigt nicht
+w88dot gewinnt 1 600
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 16 000
+Platz 7: w88dot - 16 850
+Platz 8: Zwijgzame - 20 350
+Platz 9: dodix - 25 100
+Platz 10: AspMatti - 12 600
+Ende von Hand #2689512826
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689513062
+Startzeit von Hand: 17 Jan 2015 17:15:43
+Letzte Hand #2689512826
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 16 000
+Platz 7: w88dot - 16 850
+Platz 8: Zwijgzame - 20 350
+Platz 9: dodix - 25 100
+Platz 10: AspMatti - 12 600
+Karten mischen
+Button kommt an Platz 7
+Zwijgzame bezahlt Small Blind (400)
+dodix bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [Q h][4 c] an Kukicha4523
+AspMatti passt
+Kukicha4523 passt
+Azerus152 erhöht auf 1 600
+w88dot geht mit bei 1 600
+Zwijgzame geht mit bei 1 600
+dodix passt
+Potgrößen: 5 600
+Flop austeilen [A h][J d][7 h]
+Zwijgzame schiebt
+Azerus152 schiebt
+w88dot setzt 5 600
+Zwijgzame passt
+Azerus152 passt
+Potgrößen: 5 600
+w88dot zeigt nicht
+w88dot gewinnt 5 600
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 14 400
+Platz 7: w88dot - 20 850
+Platz 8: Zwijgzame - 18 750
+Platz 9: dodix - 24 300
+Platz 10: AspMatti - 12 600
+Ende von Hand #2689513062
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689513598
+Startzeit von Hand: 17 Jan 2015 17:16:38
+Letzte Hand #2689513062
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 14 400
+Platz 7: w88dot - 20 850
+Platz 8: Zwijgzame - 18 750
+Platz 9: dodix - 24 300
+Platz 10: AspMatti - 12 600
+Karten mischen
+Button kommt an Platz 8
+dodix bezahlt Small Blind (400)
+AspMatti bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [6 h][5 s] an Kukicha4523
+Kukicha4523 passt
+Azerus152 passt
+w88dot passt
+Zwijgzame geht mit bei 800
+dodix passt
+AspMatti schiebt
+Potgrößen: 2 000
+Flop austeilen [6 c][3 d][3 c]
+AspMatti schiebt
+Zwijgzame schiebt
+Potgrößen: 2 000
+Turn austeilen [5 h]
+AspMatti setzt 1 000
+Zwijgzame geht mit bei 1 000
+Potgrößen: 4 000
+River austeilen [T c]
+AspMatti schiebt
+Zwijgzame schiebt
+Potgrößen: 4 000
+AspMatti zeigt [5 c][9 s]
+AspMatti hat Zwei Paare: 5, 3
+Zwijgzame wirft weg
+AspMatti gewinnt 4 000 mit: Zwei Paare: 5, 3
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 14 400
+Platz 7: w88dot - 20 850
+Platz 8: Zwijgzame - 16 950
+Platz 9: dodix - 23 900
+Platz 10: AspMatti - 14 800
+Ende von Hand #2689513598
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689514220
+Startzeit von Hand: 17 Jan 2015 17:17:39
+Letzte Hand #2689513598
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 9 100
+Platz 4: Azerus152 - 14 400
+Platz 7: w88dot - 20 850
+Platz 8: Zwijgzame - 16 950
+Platz 9: dodix - 23 900
+Platz 10: AspMatti - 14 800
+Karten mischen
+Button kommt an Platz 9
+AspMatti bezahlt Small Blind (400)
+Kukicha4523 bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [9 h][7 h] an Kukicha4523
+Azerus152 passt
+w88dot passt
+Zwijgzame geht mit bei 800
+dodix geht mit bei 800
+AspMatti geht mit bei 800
+Kukicha4523 schiebt
+Potgrößen: 3 200
+Flop austeilen [7 d][9 d][3 c]
+AspMatti schiebt
+Kukicha4523 setzt 2 134
+Zwijgzame geht mit bei 2 134
+dodix passt
+AspMatti passt
+Potgrößen: 7 468
+Turn austeilen [9 c]
+Kukicha4523 setzt 6 166 (All-In)
+Zwijgzame geht mit bei 6 166
+Potgrößen: 19 800
+Kukicha4523 zeigt [9 h][7 h]
+Zwijgzame zeigt [4 d][A d]
+River austeilen [J h]
+Potgrößen: 19 800
+Kukicha4523 hat Full House, 9 über 7
+Kukicha4523 gewinnt 19 800 mit: Full House, 9 über 7
+Platz 1: Kukicha4523 - 19 800
+Platz 4: Azerus152 - 14 400
+Platz 7: w88dot - 20 850
+Platz 8: Zwijgzame - 7 850
+Platz 9: dodix - 23 100
+Platz 10: AspMatti - 14 000
+Ende von Hand #2689514220
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689514822
+Startzeit von Hand: 17 Jan 2015 17:18:42
+Letzte Hand #2689514220
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 400 / 800
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 19 800
+Platz 4: Azerus152 - 14 400
+Platz 7: w88dot - 20 850
+Platz 8: Zwijgzame - 7 850
+Platz 9: dodix - 23 100
+Platz 10: AspMatti - 14 000
+Karten mischen
+Button kommt an Platz 10
+Kukicha4523 bezahlt Small Blind (400)
+Azerus152 bezahlt Big Blind (800)
+Karten geben
+Karten austeilen [5 c][2 d] an Kukicha4523
+w88dot passt
+Zwijgzame geht mit bei 800
+dodix passt
+AspMatti passt
+Kukicha4523 passt
+Azerus152 schiebt
+Potgrößen: 2 000
+Flop austeilen [T h][6 h][3 s]
+Azerus152 schiebt
+Zwijgzame setzt 2 000
+Azerus152 passt
+Potgrößen: 2 000
+Zwijgzame zeigt nicht
+Zwijgzame gewinnt 2 000
+Platz 1: Kukicha4523 - 19 400
+Platz 4: Azerus152 - 13 600
+Platz 7: w88dot - 20 850
+Platz 8: Zwijgzame - 9 050
+Platz 9: dodix - 23 100
+Platz 10: AspMatti - 14 000
+Ende von Hand #2689514822
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689515246
+Startzeit von Hand: 17 Jan 2015 17:19:25
+Letzte Hand #2689514822
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 10
+Platz 1: Kukicha4523 - 19 400
+Platz 4: Azerus152 - 13 600
+Platz 7: w88dot - 20 850
+Platz 8: Zwijgzame - 9 050
+Platz 9: dodix - 23 100
+Platz 10: AspMatti - 14 000
+Karten mischen
+Button kommt an Platz 1
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+AspMatti bezahlt Ante 100
+Potgrößen: 600
+Azerus152 bezahlt Small Blind (500)
+w88dot bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [3 d][T d] an Kukicha4523
+Zwijgzame passt
+dodix passt
+AspMatti geht mit bei 1 000
+Kukicha4523 passt
+Azerus152 passt
+w88dot schiebt
+Potgrößen: 3 100
+Flop austeilen [A h][K h][T c]
+w88dot schiebt
+AspMatti schiebt
+Potgrößen: 3 100
+Turn austeilen [Q h]
+w88dot setzt 1 000
+AspMatti geht mit bei 1 000
+Potgrößen: 5 100
+River austeilen [8 s]
+w88dot setzt 5 100
+AspMatti passt
+Potgrößen: 5 100
+w88dot zeigt nicht
+w88dot gewinnt 5 100
+Platz 1: Kukicha4523 - 19 300
+Platz 4: Azerus152 - 13 000
+Platz 7: w88dot - 23 850
+Platz 8: Zwijgzame - 8 950
+Platz 9: dodix - 23 000
+Platz 10: AspMatti - 11 900
+Ende von Hand #2689515246
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689515709
+Startzeit von Hand: 17 Jan 2015 17:20:11
+Letzte Hand #2689515246
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 19 300
+Platz 4: Azerus152 - 13 000
+Platz 7: w88dot - 23 850
+Platz 8: Zwijgzame - 8 950
+Platz 9: dodix - 23 000
+Platz 10: AspMatti - 11 900
+Karten mischen
+Button kommt an Platz 4
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+AspMatti bezahlt Ante 100
+Potgrößen: 600
+w88dot bezahlt Small Blind (500)
+Zwijgzame bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [3 s][T s] an Kukicha4523
+dodix geht mit bei 1 000
+AspMatti geht mit bei 1 000
+Kukicha4523 passt
+Azerus152 passt
+w88dot geht mit bei 1 000
+Zwijgzame schiebt
+Potgrößen: 4 600
+Flop austeilen [9 s][K h][2 d]
+w88dot schiebt
+Zwijgzame schiebt
+dodix schiebt
+AspMatti setzt 1 000
+w88dot passt
+Zwijgzame passt
+dodix erhöht auf 2 000
+AspMatti geht mit bei 2 000
+Potgrößen: 8 600
+Turn austeilen [2 s]
+dodix setzt 2 000
+AspMatti passt
+Potgrößen: 8 600
+dodix zeigt nicht
+dodix gewinnt 8 600
+Platz 1: Kukicha4523 - 19 200
+Platz 4: Azerus152 - 12 900
+Platz 7: w88dot - 22 750
+Platz 8: Zwijgzame - 7 850
+Platz 9: dodix - 28 500
+Platz 10: AspMatti - 8 800
+Ende von Hand #2689515709
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689516178
+Startzeit von Hand: 17 Jan 2015 17:21:00
+Letzte Hand #2689515709
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 19 200
+Platz 4: Azerus152 - 12 900
+Platz 7: w88dot - 22 750
+Platz 8: Zwijgzame - 7 850
+Platz 9: dodix - 28 500
+Platz 10: AspMatti - 8 800
+Karten mischen
+Button kommt an Platz 7
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+AspMatti bezahlt Ante 100
+Potgrößen: 600
+Zwijgzame bezahlt Small Blind (500)
+dodix bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [4 d][9 c] an Kukicha4523
+AspMatti passt
+Kukicha4523 passt
+Azerus152 passt
+w88dot erhöht auf 3 000
+Zwijgzame passt
+dodix geht mit bei 3 000
+Potgrößen: 7 100
+Flop austeilen [Q s][6 d][6 c]
+dodix schiebt
+w88dot setzt 7 100
+dodix passt
+Potgrößen: 7 100
+w88dot zeigt nicht
+w88dot gewinnt 7 100
+Platz 1: Kukicha4523 - 19 100
+Platz 4: Azerus152 - 12 800
+Platz 7: w88dot - 26 750
+Platz 8: Zwijgzame - 7 250
+Platz 9: dodix - 25 400
+Platz 10: AspMatti - 8 700
+Ende von Hand #2689516178
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689516573
+Startzeit von Hand: 17 Jan 2015 17:21:39
+Letzte Hand #2689516178
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 19 100
+Platz 4: Azerus152 - 12 800
+Platz 7: w88dot - 26 750
+Platz 8: Zwijgzame - 7 250
+Platz 9: dodix - 25 400
+Platz 10: AspMatti - 8 700
+Karten mischen
+Button kommt an Platz 8
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+AspMatti bezahlt Ante 100
+Potgrößen: 600
+dodix bezahlt Small Blind (500)
+AspMatti bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [A h][7 c] an Kukicha4523
+Kukicha4523 passt
+Azerus152 passt
+w88dot passt
+Zwijgzame passt
+dodix passt
+Potgrößen: 1 600
+Potgrößen: 1 600
+AspMatti zeigt nicht
+AspMatti gewinnt 1 600
+Platz 1: Kukicha4523 - 19 000
+Platz 4: Azerus152 - 12 700
+Platz 7: w88dot - 26 650
+Platz 8: Zwijgzame - 7 150
+Platz 9: dodix - 24 800
+Platz 10: AspMatti - 9 700
+Ende von Hand #2689516573
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689516759
+Startzeit von Hand: 17 Jan 2015 17:21:59
+Letzte Hand #2689516573
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 19 000
+Platz 4: Azerus152 - 12 700
+Platz 7: w88dot - 26 650
+Platz 8: Zwijgzame - 7 150
+Platz 9: dodix - 24 800
+Platz 10: AspMatti - 9 700
+Karten mischen
+Button kommt an Platz 9
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+AspMatti bezahlt Ante 100
+Potgrößen: 600
+AspMatti bezahlt Small Blind (500)
+Kukicha4523 bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [J s][K h] an Kukicha4523
+Azerus152 passt
+w88dot geht mit bei 1 000
+Zwijgzame passt
+dodix passt
+AspMatti passt
+Kukicha4523 schiebt
+Potgrößen: 3 100
+Flop austeilen [T h][2 d][9 h]
+Kukicha4523 schiebt
+w88dot setzt 3 100
+Kukicha4523 passt
+Potgrößen: 3 100
+w88dot zeigt nicht
+w88dot gewinnt 3 100
+Platz 1: Kukicha4523 - 17 900
+Platz 4: Azerus152 - 12 600
+Platz 7: w88dot - 28 650
+Platz 8: Zwijgzame - 7 050
+Platz 9: dodix - 24 700
+Platz 10: AspMatti - 9 100
+Ende von Hand #2689516759
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689517107
+Startzeit von Hand: 17 Jan 2015 17:22:34
+Letzte Hand #2689516759
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 17 900
+Platz 4: Azerus152 - 12 600
+Platz 7: w88dot - 28 650
+Platz 8: Zwijgzame - 7 050
+Platz 9: dodix - 24 700
+Platz 10: AspMatti - 9 100
+Karten mischen
+Button kommt an Platz 10
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+AspMatti bezahlt Ante 100
+Potgrößen: 600
+Kukicha4523 bezahlt Small Blind (500)
+Azerus152 bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [9 c][J h] an Kukicha4523
+w88dot geht mit bei 1 000
+Zwijgzame passt
+dodix passt
+AspMatti geht mit bei 1 000
+Kukicha4523 passt
+Azerus152 erhöht auf 12 500 (All-In)
+w88dot passt
+AspMatti geht mit bei 9 000 (All-In)
+Azerus152 erhält 3 500 ungecalled zurück
+Potgrößen: 20 100
+Azerus152 zeigt [Q d][Q c]
+AspMatti zeigt [A s][9 s]
+Flop austeilen [4 d][Q h][6 c]
+Potgrößen: 20 100
+Turn austeilen [8 h]
+Potgrößen: 20 100
+River austeilen [K c]
+Potgrößen: 20 100
+Azerus152 hat Drilling: Damen
+Azerus152 gewinnt 20 100 mit: Drilling: Damen
+Platz 1: Kukicha4523 - 17 300
+Platz 4: Azerus152 - 23 600
+Platz 7: w88dot - 27 550
+Platz 8: Zwijgzame - 6 950
+Platz 9: dodix - 24 600
+Platz 10: AspMatti - 0
+Ende von Hand #2689517107
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689517515
+Startzeit von Hand: 17 Jan 2015 17:23:16
+Letzte Hand #2689517107
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 10
+Platz 1: Kukicha4523 - 17 300
+Platz 4: Azerus152 - 23 600
+Platz 7: w88dot - 27 550
+Platz 8: Zwijgzame - 6 950
+Platz 9: dodix - 24 600
+Karten mischen
+Button kommt an Platz 1
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+Potgrößen: 500
+Azerus152 bezahlt Small Blind (500)
+w88dot bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [J h][6 d] an Kukicha4523
+Zwijgzame passt
+dodix geht mit bei 1 000
+Kukicha4523 passt
+Azerus152 passt
+w88dot schiebt
+Potgrößen: 3 000
+Flop austeilen [9 d][4 c][K h]
+w88dot schiebt
+dodix schiebt
+Potgrößen: 3 000
+Turn austeilen [J d]
+w88dot schiebt
+dodix setzt 2 000
+w88dot passt
+Potgrößen: 3 000
+dodix zeigt nicht
+dodix gewinnt 3 000
+Platz 1: Kukicha4523 - 17 200
+Platz 4: Azerus152 - 23 000
+Platz 7: w88dot - 26 450
+Platz 8: Zwijgzame - 6 850
+Platz 9: dodix - 26 500
+Ende von Hand #2689517515
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689517950
+Startzeit von Hand: 17 Jan 2015 17:23:58
+Letzte Hand #2689517515
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 17 200
+Platz 4: Azerus152 - 23 000
+Platz 7: w88dot - 26 450
+Platz 8: Zwijgzame - 6 850
+Platz 9: dodix - 26 500
+Karten mischen
+Button kommt an Platz 4
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+Potgrößen: 500
+w88dot bezahlt Small Blind (500)
+Zwijgzame bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [5 c][7 c] an Kukicha4523
+dodix passt
+Kukicha4523 passt
+Azerus152 passt
+w88dot passt
+Potgrößen: 1 500
+Potgrößen: 1 500
+Zwijgzame zeigt nicht
+Zwijgzame gewinnt 1 500
+Platz 1: Kukicha4523 - 17 100
+Platz 4: Azerus152 - 22 900
+Platz 7: w88dot - 25 850
+Platz 8: Zwijgzame - 7 750
+Platz 9: dodix - 26 400
+Ende von Hand #2689517950
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689518117
+Startzeit von Hand: 17 Jan 2015 17:24:18
+Letzte Hand #2689517950
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 17 100
+Platz 4: Azerus152 - 22 900
+Platz 7: w88dot - 25 850
+Platz 8: Zwijgzame - 7 750
+Platz 9: dodix - 26 400
+Karten mischen
+Button kommt an Platz 7
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+Potgrößen: 500
+Zwijgzame bezahlt Small Blind (500)
+dodix bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [8 h][4 h] an Kukicha4523
+Kukicha4523 passt
+Azerus152 passt
+w88dot erhöht auf 3 000
+Zwijgzame passt
+dodix passt
+Potgrößen: 3 000
+w88dot zeigt nicht
+w88dot gewinnt 3 000
+Platz 1: Kukicha4523 - 17 000
+Platz 4: Azerus152 - 22 800
+Platz 7: w88dot - 27 750
+Platz 8: Zwijgzame - 7 150
+Platz 9: dodix - 25 300
+Ende von Hand #2689518117
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689518303
+Startzeit von Hand: 17 Jan 2015 17:24:38
+Letzte Hand #2689518117
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 17 000
+Platz 4: Azerus152 - 22 800
+Platz 7: w88dot - 27 750
+Platz 8: Zwijgzame - 7 150
+Platz 9: dodix - 25 300
+Karten mischen
+Button kommt an Platz 8
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+Potgrößen: 500
+dodix bezahlt Small Blind (500)
+Kukicha4523 bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [J h][6 s] an Kukicha4523
+Azerus152 passt
+w88dot erhöht auf 2 000
+Zwijgzame passt
+dodix passt
+Kukicha4523 passt
+Potgrößen: 3 000
+w88dot zeigt nicht
+w88dot gewinnt 3 000
+Platz 1: Kukicha4523 - 15 900
+Platz 4: Azerus152 - 22 700
+Platz 7: w88dot - 29 650
+Platz 8: Zwijgzame - 7 050
+Platz 9: dodix - 24 700
+Ende von Hand #2689518303
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689518477
+Startzeit von Hand: 17 Jan 2015 17:24:55
+Letzte Hand #2689518303
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 15 900
+Platz 4: Azerus152 - 22 700
+Platz 7: w88dot - 29 650
+Platz 8: Zwijgzame - 7 050
+Platz 9: dodix - 24 700
+Karten mischen
+Button kommt an Platz 9
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+Potgrößen: 500
+Kukicha4523 bezahlt Small Blind (500)
+Azerus152 bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [4 d][T s] an Kukicha4523
+w88dot passt
+Zwijgzame passt
+dodix geht mit bei 1 000
+Kukicha4523 passt
+Azerus152 schiebt
+Potgrößen: 3 000
+Flop austeilen [9 c][Q h][K c]
+Azerus152 setzt 1 500
+dodix passt
+Potgrößen: 3 000
+Azerus152 zeigt nicht
+Azerus152 gewinnt 3 000
+Platz 1: Kukicha4523 - 15 300
+Platz 4: Azerus152 - 24 600
+Platz 7: w88dot - 29 550
+Platz 8: Zwijgzame - 6 950
+Platz 9: dodix - 23 600
+Ende von Hand #2689518477
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689518778
+Startzeit von Hand: 17 Jan 2015 17:25:26
+Letzte Hand #2689518477
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 15 300
+Platz 4: Azerus152 - 24 600
+Platz 7: w88dot - 29 550
+Platz 8: Zwijgzame - 6 950
+Platz 9: dodix - 23 600
+Karten mischen
+Button kommt an Platz 1
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+Potgrößen: 500
+Azerus152 bezahlt Small Blind (500)
+w88dot bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [5 h][K c] an Kukicha4523
+Zwijgzame erhöht auf 6 850 (All-In)
+dodix passt
+Kukicha4523 passt
+Azerus152 passt
+w88dot geht mit bei 6 850
+Potgrößen: 14 700
+w88dot zeigt [7 s][J s]
+Zwijgzame zeigt [K d][A h]
+Flop austeilen [Q s][8 d][J d]
+Potgrößen: 14 700
+Turn austeilen [Q d]
+Potgrößen: 14 700
+River austeilen [6 d]
+Potgrößen: 14 700
+Zwijgzame hat Flush, König hoch 
+Zwijgzame gewinnt 14 700 mit: Flush, König hoch 
+Platz 1: Kukicha4523 - 15 200
+Platz 4: Azerus152 - 24 000
+Platz 7: w88dot - 22 600
+Platz 8: Zwijgzame - 14 700
+Platz 9: dodix - 23 500
+Ende von Hand #2689518778
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689519123
+Startzeit von Hand: 17 Jan 2015 17:26:04
+Letzte Hand #2689518778
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 15 200
+Platz 4: Azerus152 - 24 000
+Platz 7: w88dot - 22 600
+Platz 8: Zwijgzame - 14 700
+Platz 9: dodix - 23 500
+Karten mischen
+Button kommt an Platz 4
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+Potgrößen: 500
+w88dot bezahlt Small Blind (500)
+Zwijgzame bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [2 h][3 s] an Kukicha4523
+dodix passt
+Kukicha4523 passt
+Azerus152 erhöht auf 2 000
+w88dot geht mit bei 2 000
+Zwijgzame passt
+Potgrößen: 5 500
+Flop austeilen [2 s][8 s][3 h]
+w88dot setzt 1 000
+Azerus152 erhöht auf 2 000
+w88dot geht mit bei 2 000
+Potgrößen: 9 500
+Turn austeilen [K s]
+w88dot schiebt
+Azerus152 schiebt
+Potgrößen: 9 500
+River austeilen [3 c]
+w88dot setzt 9 500
+Azerus152 passt
+Potgrößen: 9 500
+w88dot zeigt nicht
+w88dot gewinnt 9 500
+Platz 1: Kukicha4523 - 15 100
+Platz 4: Azerus152 - 19 900
+Platz 7: w88dot - 28 000
+Platz 8: Zwijgzame - 13 600
+Platz 9: dodix - 23 400
+Ende von Hand #2689519123
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689519636
+Startzeit von Hand: 17 Jan 2015 17:26:59
+Letzte Hand #2689519123
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 500 / 1 000
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 15 100
+Platz 4: Azerus152 - 19 900
+Platz 7: w88dot - 28 000
+Platz 8: Zwijgzame - 13 600
+Platz 9: dodix - 23 400
+Karten mischen
+Button kommt an Platz 7
+Kukicha4523 bezahlt Ante 100
+Azerus152 bezahlt Ante 100
+w88dot bezahlt Ante 100
+Zwijgzame bezahlt Ante 100
+dodix bezahlt Ante 100
+Potgrößen: 500
+Zwijgzame bezahlt Small Blind (500)
+dodix bezahlt Big Blind (1 000)
+Karten geben
+Karten austeilen [K s][7 h] an Kukicha4523
+Kukicha4523 passt
+Azerus152 passt
+w88dot geht mit bei 1 000
+Zwijgzame geht mit bei 1 000
+dodix schiebt
+Potgrößen: 3 500
+Flop austeilen [4 h][K c][9 c]
+Zwijgzame setzt 1 000
+dodix passt
+w88dot passt
+Potgrößen: 3 500
+Zwijgzame zeigt nicht
+Zwijgzame gewinnt 3 500
+Platz 1: Kukicha4523 - 15 000
+Platz 4: Azerus152 - 19 800
+Platz 7: w88dot - 26 900
+Platz 8: Zwijgzame - 16 000
+Platz 9: dodix - 22 300
+Ende von Hand #2689519636
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689519924
+Startzeit von Hand: 17 Jan 2015 17:27:31
+Letzte Hand #2689519636
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 15 000
+Platz 4: Azerus152 - 19 800
+Platz 7: w88dot - 26 900
+Platz 8: Zwijgzame - 16 000
+Platz 9: dodix - 22 300
+Karten mischen
+Button kommt an Platz 8
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+dodix bezahlt Small Blind (600)
+Kukicha4523 bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [3 h][2 d] an Kukicha4523
+Azerus152 passt
+w88dot passt
+Zwijgzame geht mit bei 1 200
+dodix geht mit bei 1 200
+Kukicha4523 schiebt
+Potgrößen: 4 200
+Flop austeilen [T s][6 h][T d]
+dodix schiebt
+Kukicha4523 schiebt
+Zwijgzame schiebt
+Potgrößen: 4 200
+Turn austeilen [7 d]
+dodix schiebt
+Kukicha4523 schiebt
+Zwijgzame schiebt
+Potgrößen: 4 200
+River austeilen [7 s]
+dodix schiebt
+Kukicha4523 schiebt
+Zwijgzame schiebt
+Potgrößen: 4 200
+dodix zeigt [A c][Q d]
+dodix hat Zwei Paare: 10, 7
+Kukicha4523 wirft weg
+Zwijgzame zeigt [J d][K s]
+Zwijgzame hat Zwei Paare: 10, 7
+dodix gewinnt 4 200 mit: Zwei Paare: 10, 7
+Platz 1: Kukicha4523 - 13 680
+Platz 4: Azerus152 - 19 680
+Platz 7: w88dot - 26 780
+Platz 8: Zwijgzame - 14 680
+Platz 9: dodix - 25 180
+Ende von Hand #2689519924
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689520249
+Startzeit von Hand: 17 Jan 2015 17:28:08
+Letzte Hand #2689519924
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 13 680
+Platz 4: Azerus152 - 19 680
+Platz 7: w88dot - 26 780
+Platz 8: Zwijgzame - 14 680
+Platz 9: dodix - 25 180
+Karten mischen
+Button kommt an Platz 9
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+Kukicha4523 bezahlt Small Blind (600)
+Azerus152 bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [6 h][5 d] an Kukicha4523
+w88dot erhöht auf 3 600
+Zwijgzame geht mit bei 3 600
+dodix passt
+Kukicha4523 passt
+Azerus152 passt
+Potgrößen: 9 600
+Flop austeilen [9 d][Q h][7 h]
+w88dot setzt 9 600
+Zwijgzame passt
+Potgrößen: 9 600
+w88dot zeigt nicht
+w88dot gewinnt 9 600
+Platz 1: Kukicha4523 - 12 960
+Platz 4: Azerus152 - 18 360
+Platz 7: w88dot - 32 660
+Platz 8: Zwijgzame - 10 960
+Platz 9: dodix - 25 060
+Ende von Hand #2689520249
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689520721
+Startzeit von Hand: 17 Jan 2015 17:29:01
+Letzte Hand #2689520249
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 12 960
+Platz 4: Azerus152 - 18 360
+Platz 7: w88dot - 32 660
+Platz 8: Zwijgzame - 10 960
+Platz 9: dodix - 25 060
+Karten mischen
+Button kommt an Platz 1
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+Azerus152 bezahlt Small Blind (600)
+w88dot bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [A h][K c] an Kukicha4523
+Zwijgzame passt
+dodix geht mit bei 1 200
+Kukicha4523 erhöht auf 12 840 (All-In)
+Azerus152 passt
+w88dot passt
+dodix passt
+Potgrößen: 4 800
+Kukicha4523 zeigt nicht
+Kukicha4523 gewinnt 4 800
+Platz 1: Kukicha4523 - 16 440
+Platz 4: Azerus152 - 17 640
+Platz 7: w88dot - 31 340
+Platz 8: Zwijgzame - 10 840
+Platz 9: dodix - 23 740
+Ende von Hand #2689520721
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689521038
+Startzeit von Hand: 17 Jan 2015 17:29:35
+Letzte Hand #2689520721
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 16 440
+Platz 4: Azerus152 - 17 640
+Platz 7: w88dot - 31 340
+Platz 8: Zwijgzame - 10 840
+Platz 9: dodix - 23 740
+Karten mischen
+Button kommt an Platz 4
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+w88dot bezahlt Small Blind (600)
+Zwijgzame bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [8 s][9 c] an Kukicha4523
+dodix passt
+Kukicha4523 passt
+Azerus152 passt
+w88dot erhöht auf 4 200
+Zwijgzame geht mit bei 4 200
+Potgrößen: 9 000
+Flop austeilen [9 d][2 c][4 d]
+w88dot setzt 9 000
+Zwijgzame geht mit bei 6 520 (All-In)
+w88dot erhält 2 480 ungecalled zurück
+Potgrößen: 22 040
+w88dot zeigt [Q h][K d]
+Zwijgzame zeigt [4 c][4 s]
+Turn austeilen [7 c]
+Potgrößen: 22 040
+River austeilen [K c]
+Potgrößen: 22 040
+w88dot hat Ein Paar: Könige
+Zwijgzame hat Drilling: 4
+Zwijgzame gewinnt 22 040 mit: Drilling: 4
+Platz 1: Kukicha4523 - 16 320
+Platz 4: Azerus152 - 17 520
+Platz 7: w88dot - 20 500
+Platz 8: Zwijgzame - 22 040
+Platz 9: dodix - 23 620
+Ende von Hand #2689521038
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689521488
+Startzeit von Hand: 17 Jan 2015 17:30:25
+Letzte Hand #2689521038
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 16 320
+Platz 4: Azerus152 - 17 520
+Platz 7: w88dot - 20 500
+Platz 8: Zwijgzame - 22 040
+Platz 9: dodix - 23 620
+Karten mischen
+Button kommt an Platz 7
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+Zwijgzame bezahlt Small Blind (600)
+dodix bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [T s][K s] an Kukicha4523
+Kukicha4523 erhöht auf 3 600
+Azerus152 passt
+w88dot geht mit bei 3 600
+Zwijgzame geht mit bei 3 600
+dodix geht mit bei 3 600
+Potgrößen: 15 000
+Flop austeilen [A s][Q d][8 h]
+Zwijgzame setzt 18 320 (All-In)
+dodix passt
+Kukicha4523 passt
+w88dot passt
+Potgrößen: 15 000
+Zwijgzame zeigt [A c][Q h]
+Zwijgzame hat Zwei Paare: Asse, Damen
+Zwijgzame gewinnt 15 000
+Platz 1: Kukicha4523 - 12 600
+Platz 4: Azerus152 - 17 400
+Platz 7: w88dot - 16 780
+Platz 8: Zwijgzame - 33 320
+Platz 9: dodix - 19 900
+Ende von Hand #2689521488
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689521915
+Startzeit von Hand: 17 Jan 2015 17:31:10
+Letzte Hand #2689521488
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 12 600
+Platz 4: Azerus152 - 17 400
+Platz 7: w88dot - 16 780
+Platz 8: Zwijgzame - 33 320
+Platz 9: dodix - 19 900
+Karten mischen
+Button kommt an Platz 8
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+dodix bezahlt Small Blind (600)
+Kukicha4523 bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [9 c][Q s] an Kukicha4523
+Azerus152 erhöht auf 2 400
+w88dot passt
+Zwijgzame geht mit bei 2 400
+dodix passt
+Kukicha4523 passt
+Potgrößen: 7 200
+Flop austeilen [Q d][K s][K d]
+Azerus152 schiebt
+Zwijgzame setzt 3 600
+Azerus152 passt
+Potgrößen: 7 200
+Zwijgzame zeigt nicht
+Zwijgzame gewinnt 7 200
+Platz 1: Kukicha4523 - 11 280
+Platz 4: Azerus152 - 14 880
+Platz 7: w88dot - 16 660
+Platz 8: Zwijgzame - 38 000
+Platz 9: dodix - 19 180
+Ende von Hand #2689521915
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689522201
+Startzeit von Hand: 17 Jan 2015 17:31:43
+Letzte Hand #2689521915
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 11 280
+Platz 4: Azerus152 - 14 880
+Platz 7: w88dot - 16 660
+Platz 8: Zwijgzame - 38 000
+Platz 9: dodix - 19 180
+Karten mischen
+Button kommt an Platz 9
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+Kukicha4523 bezahlt Small Blind (600)
+Azerus152 bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [Q s][7 s] an Kukicha4523
+w88dot erhöht auf 16 540 (All-In)
+Zwijgzame passt
+dodix passt
+Kukicha4523 passt
+Azerus152 passt
+Potgrößen: 3 600
+w88dot zeigt nicht
+w88dot gewinnt 3 600
+Platz 1: Kukicha4523 - 10 560
+Platz 4: Azerus152 - 13 560
+Platz 7: w88dot - 18 940
+Platz 8: Zwijgzame - 37 880
+Platz 9: dodix - 19 060
+Ende von Hand #2689522201
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689522381
+Startzeit von Hand: 17 Jan 2015 17:32:03
+Letzte Hand #2689522201
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 9
+Platz 1: Kukicha4523 - 10 560
+Platz 4: Azerus152 - 13 560
+Platz 7: w88dot - 18 940
+Platz 8: Zwijgzame - 37 880
+Platz 9: dodix - 19 060
+Karten mischen
+Button kommt an Platz 1
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+Azerus152 bezahlt Small Blind (600)
+w88dot bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [A c][T d] an Kukicha4523
+Zwijgzame passt
+dodix passt
+Kukicha4523 erhöht auf 10 440 (All-In)
+Azerus152 passt
+w88dot passt
+Potgrößen: 3 600
+Kukicha4523 zeigt nicht
+Kukicha4523 gewinnt 3 600
+Platz 1: Kukicha4523 - 12 840
+Platz 4: Azerus152 - 12 840
+Platz 7: w88dot - 17 620
+Platz 8: Zwijgzame - 37 760
+Platz 9: dodix - 18 940
+Ende von Hand #2689522381
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689522690
+Startzeit von Hand: 17 Jan 2015 17:32:35
+Letzte Hand #2689522381
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 1
+Platz 1: Kukicha4523 - 12 840
+Platz 4: Azerus152 - 12 840
+Platz 7: w88dot - 17 620
+Platz 8: Zwijgzame - 37 760
+Platz 9: dodix - 18 940
+Karten mischen
+Button kommt an Platz 4
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+w88dot bezahlt Small Blind (600)
+Zwijgzame bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [6 h][T s] an Kukicha4523
+dodix passt
+Kukicha4523 passt
+Azerus152 passt
+w88dot erhöht auf 17 500 (All-In)
+Zwijgzame passt
+Potgrößen: 3 000
+w88dot zeigt nicht
+w88dot gewinnt 3 000
+Platz 1: Kukicha4523 - 12 720
+Platz 4: Azerus152 - 12 720
+Platz 7: w88dot - 19 300
+Platz 8: Zwijgzame - 36 440
+Platz 9: dodix - 18 820
+Ende von Hand #2689522690
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689522981
+Startzeit von Hand: 17 Jan 2015 17:33:08
+Letzte Hand #2689522690
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 4
+Platz 1: Kukicha4523 - 12 720
+Platz 4: Azerus152 - 12 720
+Platz 7: w88dot - 19 300
+Platz 8: Zwijgzame - 36 440
+Platz 9: dodix - 18 820
+Karten mischen
+Button kommt an Platz 7
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+Zwijgzame bezahlt Small Blind (600)
+dodix bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [4 c][3 s] an Kukicha4523
+Kukicha4523 passt
+Azerus152 passt
+w88dot erhöht auf 19 180 (All-In)
+Zwijgzame passt
+dodix passt
+Potgrößen: 3 600
+w88dot zeigt nicht
+w88dot gewinnt 3 600
+Platz 1: Kukicha4523 - 12 600
+Platz 4: Azerus152 - 12 600
+Platz 7: w88dot - 21 580
+Platz 8: Zwijgzame - 35 720
+Platz 9: dodix - 17 500
+Ende von Hand #2689522981
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689523166
+Startzeit von Hand: 17 Jan 2015 17:33:30
+Letzte Hand #2689522981
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 7
+Platz 1: Kukicha4523 - 12 600
+Platz 4: Azerus152 - 12 600
+Platz 7: w88dot - 21 580
+Platz 8: Zwijgzame - 35 720
+Platz 9: dodix - 17 500
+Karten mischen
+Button kommt an Platz 8
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+dodix bezahlt Small Blind (600)
+Kukicha4523 bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [7 h][J s] an Kukicha4523
+Azerus152 passt
+w88dot erhöht auf 21 460 (All-In)
+Zwijgzame passt
+dodix passt
+Kukicha4523 passt
+Potgrößen: 3 600
+w88dot zeigt nicht
+w88dot gewinnt 3 600
+Platz 1: Kukicha4523 - 11 280
+Platz 4: Azerus152 - 12 480
+Platz 7: w88dot - 23 860
+Platz 8: Zwijgzame - 35 600
+Platz 9: dodix - 16 780
+Ende von Hand #2689523166
+
+Tisch #57344131 - STT #31191109
+Beginne Hand #2689523322
+Startzeit von Hand: 17 Jan 2015 17:33:47
+Letzte Hand #2689523166
+Spiel: HOLD'EM
+Limit: NO LIMIT
+Tisch: TURNIER
+Geld: Turnierchips
+Blinds sind jetzt 600 / 1 200
+Button ist an Platz 8
+Platz 1: Kukicha4523 - 11 280
+Platz 4: Azerus152 - 12 480
+Platz 7: w88dot - 23 860
+Platz 8: Zwijgzame - 35 600
+Platz 9: dodix - 16 780
+Karten mischen
+Button kommt an Platz 9
+Kukicha4523 bezahlt Ante 120
+Azerus152 bezahlt Ante 120
+w88dot bezahlt Ante 120
+Zwijgzame bezahlt Ante 120
+dodix bezahlt Ante 120
+Potgrößen: 600
+Kukicha4523 bezahlt Small Blind (600)
+Azerus152 bezahlt Big Blind (1 200)
+Karten geben
+Karten austeilen [T h][K s] an Kukicha4523
+w88dot passt
+Zwijgzame passt
+dodix passt
+Kukicha4523 erhöht auf 11 160 (All-In)
+Azerus152 geht mit bei 11 160
+Potgrößen: 22 920
+Kukicha4523 zeigt [T h][K s]
+Azerus152 zeigt [9 d][K d]
+Flop austeilen [J d][K c][Q s]
+Potgrößen: 22 920
+Turn austeilen [T c]
+Potgrößen: 22 920
+River austeilen [4 c]
+Potgrößen: 22 920
+Kukicha4523 hat Zwei Paare: Könige, 10
+Azerus152 hat Straße, König hoch 
+Azerus152 gewinnt 22 920 mit: Straße, König hoch 
+Platz 1: Kukicha4523 - 0
+Platz 4: Azerus152 - 24 120
+Platz 7: w88dot - 23 740
+Platz 8: Zwijgzame - 35 480
+Platz 9: dodix - 16 660
+Ende von Hand #2689523322
+
